@@ -53,6 +53,4 @@ def monopoly_with_fourth_tier
       :four_pieces_owned => 200}
     }
   }
-	#copy and past the monopoly hash you build in the previous method. We're going to add stuff to it here!
-
 end
